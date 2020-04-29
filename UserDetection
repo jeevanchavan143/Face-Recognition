@@ -1,4 +1,3 @@
-#https://www.youtube.com/watch?v=jqSRzuCAwhY
 import cv2 #opencv lib
 import numpy as np #Mathemetic operation
 from os import listdir #Data Fetching from directory
